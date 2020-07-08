@@ -34,7 +34,7 @@ Here are some of the workflows in action:
 
 3) End users can quickly navigate to the app to provide the check-in details
 
-![Enduser Check-in](https://github.com/OfficeDev/microsoft-teams-apps-staffcheckins/wiki/Images/Enduser_Check-in.png)
+![Enduser Check-in](https://github.com/OfficeDev/microsoft-teams-apps-staffcheckins/wiki/Images/Enduser_Checkin.png)
 
 4) Managers can view summarized check-in status of team members and view details if required
 
