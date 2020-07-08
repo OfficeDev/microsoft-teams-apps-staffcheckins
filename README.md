@@ -8,7 +8,7 @@ description: Power Apps solution that provides a simple workflow where staff can
 urlFragment: microsoft-teams-apps-staffcheckins
 ---
 
-# Request-a-team App Template
+# Staff Check-ins App Template
 
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-staffcheckins/wiki/Home) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-staffcheckins/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-staffcheckins/wiki/Solution-Overview) |
 | ---- | ---- | ---- |
