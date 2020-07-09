@@ -59,6 +59,9 @@ Begin with the [Solution overview](https://github.com/OfficeDev/microsoft-teams-
 
 When you're ready to try out Staff Check-ins app, or to use it in your own organization, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-staffcheckins/wiki/Deployment-guide).
 
+#### Known issue:
+The app is currently not supported on mobile devices. We are actively working on fixing the issue and will update the repo as soon as it is available
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
